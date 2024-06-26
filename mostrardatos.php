@@ -150,3 +150,4 @@ if ($conn->connect_error) {
     <?php $conn->close(); ?>
 </body>
 </html>
+
